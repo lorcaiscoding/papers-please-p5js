@@ -16,7 +16,7 @@ Define a function "mousePressed":
 - Specify the range of mouse clicks
 - If the game is not over:
   - Check if the mouse click corresponds to a correct or incorrect pair: If the mouse clicks on the green rectangle and it corresponds to the same photos, or if the mouse clicks on the red rectangle and it corresponds to the different photos, update the score; If the mouse clicks on the green rectangle and it corresponds to the different photos, or if the mouse clicks on the red rectangle and it corresponds to the same photos, change the gamestate to gameover
-- Change the gamestate to victory if the score reaches 10
+  - Change the gamestate to victory if the score reaches 10
 
 Define a function "keyPressed":
 If the gamestate is description, change it to 'game' and start the game when the Enter key is pressed
