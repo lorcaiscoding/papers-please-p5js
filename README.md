@@ -1,4 +1,9 @@
 # papers-please-p5js
+
+
+[Click here to see the live p5.js sketch](https://lorcaiscoding.github.io/papers-please-p5js/)
+
+
 Define a function "preload":
 - Load images into 3 gamestates: description, gameover, and victory
 - Generate some random numbers for photos of immigrants and their sequences in the library
