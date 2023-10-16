@@ -1,7 +1,7 @@
 # papers-please-p5js
 
 
-[Click here to see the live p5.js sketch](https://lorcaiscoding.github.io/papers-please-p5js/)
+[Click here to see the live p5.js sketch](https://lorcaiscoding.github.io/papers-please-p5js/](https://lorcaiscoding.github.io/papers-please-p5js/papers%20please%20p5js/)
 
 
 Define a function "preload":
